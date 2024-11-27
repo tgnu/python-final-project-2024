@@ -4,6 +4,10 @@
 
 ## Project Title: Video Downloader
 
+## School Name: College LaSalle
+
+## Teacher Name: Bobby Connolly
+
 This repository contains my final project for the Python course.
 
 - 'proposal.md': Project proposal
